@@ -34,7 +34,7 @@ export default {
 };
 </script>
 
-<style lang="scss">
+<style scoped lang="scss">
     .articles {
     padding-top: 180px;
     background-image: url(../assets/img/articles_bg.jpg);
